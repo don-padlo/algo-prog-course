@@ -64,3 +64,13 @@ bool wasSuccessful = int.TryParse(booksInput, out int booksCount);
 Console.WriteLine($"Удалось преобразовать: {wasSuccessful}");
 Console.WriteLine($"Значение переменной booksCount: {booksCount}");
 
+
+Console.WriteLine("Пожалуйста,укажите ваш рост в метрах: ");
+string mtr = Console.ReadLine()[0..^3];
+double meter = Convert.ToDouble(mtr);
+
+Console.WriteLine("Пожалуйста,укажите ваш вес в килограммах: ");
+string kg = Console.ReadLine()[0..^3];
+double KG = Convert.ToDouble(kg);
+
+Console.WriteLine($"ИМТ: {(KG/100)/((meter/100)*(meter/100)):F2}");
