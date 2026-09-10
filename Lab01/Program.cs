@@ -90,3 +90,10 @@ double priceWithVat = productPrice + (1 + VatRate);
 //Выводим на экран название учебного заведение и счёт за электроэнергию без учёта НДС 
 Console.WriteLine($"Учебное заведение {CollegeName}");
 Console.WriteLine($"Цена без НДС:{productPrice}, ({VatRate:P0}):{priceWithVat}");
+
+
+int scholarShip = 810;
+int monthlyExpenses = 509;
+const int MonthsInSemester = 4;
+
+Console.WriteLine($"Остаток за месяц: {scholarShip - monthlyExpenses}\nОстаток за семестр: {(scholarShip - monthlyExpenses)*MonthsInSemester}");
