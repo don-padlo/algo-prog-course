@@ -70,7 +70,27 @@ string mtr = Console.ReadLine()[0..^3];
 double meter = Convert.ToDouble(mtr);
 
 Console.WriteLine("Пожалуйста,укажите ваш вес в килограммах: ");
-string kg = Console.ReadLine()[0..^3];
+string kg = Console.ReadLine();
 double KG = Convert.ToDouble(kg);
 
-Console.WriteLine($"ИМТ: {(KG/100)/((meter/100)*(meter/100)):F2}");
+Console.WriteLine($"ИМТ: {(KG / 100) / ((meter / 100) * (meter / 100)):F2}");
+
+
+Console.WriteLine("Введите целое число: ");
+string ch = Console.ReadLine();
+bool CH = int.TryParse(ch, out int CHS);
+
+Console.WriteLine("Введите десятичную дробь");
+string db = Console.ReadLine();
+bool DB = double.TryParse(db, out double DBS);
+
+Console.WriteLine("Введите дату: ");
+string dt = Console.ReadLine();
+bool DT = DateTime.TryParse(dt, out DateTime DTS);
+
+Console.WriteLine($"Success: {CH}");
+Console.WriteLine($"Number: {CHS}");
+Console.WriteLine($"Success: {DB}");
+Console.WriteLine($"Num/: {DBS}");
+Console.WriteLine($"Success: {DT}");
+Console.WriteLine($"Date: {DTS}");
