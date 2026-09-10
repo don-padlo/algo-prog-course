@@ -96,4 +96,9 @@ int scholarShip = 810;
 int monthlyExpenses = 509;
 const int MonthsInSemester = 4;
 
-Console.WriteLine($"Остаток за месяц: {scholarShip - monthlyExpenses}\nОстаток за семестр: {(scholarShip - monthlyExpenses)*MonthsInSemester}");
+Console.WriteLine($"Остаток за месяц: {scholarShip - monthlyExpenses}\nОстаток за семестр: {(scholarShip - monthlyExpenses) * MonthsInSemester}");
+
+
+int totalMinutes = 500;
+int minutesPerLesson = 45;
+Console.WriteLine($"500 минут = {totalMinutes/minutesPerLesson} уроков + {totalMinutes%minutesPerLesson} минут");
