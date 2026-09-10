@@ -21,6 +21,7 @@ double roomLength = 4.2;
 double roomArea = roomWidth * roomLength;
 double roomPerimeter = (roomWidth + roomLength) * 2;
 
+//Выводим на экран ширину, длину, периметр и площадь помещения 
 Console.WriteLine($"Ширина: {roomWidth} м, длина: {roomLength} * 2");
 Console.WriteLine($"Площадь: {roomArea} кв.м");
 Console.WriteLine($"Периметр: {roomPerimeter} м");
@@ -36,6 +37,8 @@ double interestRate = 0.08;
 double totalWithInterest = laptopPrice * (1 + interestRate);
 double monthlyPayment = totalWithInterest / monthsCount;
 
+
+//Выводим на экран цену ноутбука, общую сумму выплат и ежемесячный платёж
 Console.WriteLine($"Цена ноутбука: {laptopPrice} руб.");
 Console.WriteLine($"Итого с процентами: {totalWithInterest} руб.");
 Console.WriteLine($"Платёж в месяц: {monthlyPayment} руб.");
@@ -52,3 +55,38 @@ double studentsPerGroupCorrect = (double)totalStudents / groupsCount;
 
 Console.WriteLine($"25 / 4 как int:    {studentsPerGroupWrong}");
 Console.WriteLine($"25 / 4 как double: {studentsPerGroupCorrect}");
+
+
+Console.WriteLine();
+Console.WriteLine("Способы собрать строку");
+
+string firstName = "Анна";
+string lastName = "Смирнова";
+
+// Способ 1: конкатенация через оператор +
+string fullNameConcat = firstName + " " + lastName;
+
+// Способ 2: интерполяция через $""
+string fullNameInterp = $"{firstName} {lastName}";
+
+// Способ 3: метод string.Concat
+string fullNameConcatMethod = string.Concat(firstName, " ", lastName);
+
+Console.WriteLine(fullNameConcat);
+Console.WriteLine(fullNameInterp);
+Console.WriteLine(fullNameConcatMethod);
+Console.WriteLine($"Все три строки равны: {fullNameConcat == fullNameInterp && fullNameInterp == fullNameConcatMethod}");
+
+
+Console.WriteLine();
+Console.WriteLine("Константы");
+
+const double VatRate = 0.20;
+const string CollegeName = "ВФ ВолГУ";
+
+double productPrice = 1000;
+double priceWithVat = productPrice + (1 + VatRate);
+
+//Выводим на экран название учебного заведение и счёт за электроэнергию без учёта НДС 
+Console.WriteLine($"Учебное заведение {CollegeName}");
+Console.WriteLine($"Цена без НДС:{productPrice}, ({VatRate:P0}):{priceWithVat}");

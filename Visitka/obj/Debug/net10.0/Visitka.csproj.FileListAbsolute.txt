@@ -1,0 +1,15 @@
+C:\Users\ivady\Documents\algo-prog-course\Visitka\bin\Debug\net10.0\Visitka.exe
+C:\Users\ivady\Documents\algo-prog-course\Visitka\bin\Debug\net10.0\Visitka.deps.json
+C:\Users\ivady\Documents\algo-prog-course\Visitka\bin\Debug\net10.0\Visitka.runtimeconfig.json
+C:\Users\ivady\Documents\algo-prog-course\Visitka\bin\Debug\net10.0\Visitka.dll
+C:\Users\ivady\Documents\algo-prog-course\Visitka\bin\Debug\net10.0\Visitka.pdb
+C:\Users\ivady\Documents\algo-prog-course\Visitka\obj\Debug\net10.0\Visitka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivady\Documents\algo-prog-course\Visitka\obj\Debug\net10.0\Visitka.AssemblyInfoInputs.cache
+C:\Users\ivady\Documents\algo-prog-course\Visitka\obj\Debug\net10.0\Visitka.AssemblyInfo.cs
+C:\Users\ivady\Documents\algo-prog-course\Visitka\obj\Debug\net10.0\Visitka.csproj.CoreCompileInputs.cache
+C:\Users\ivady\Documents\algo-prog-course\Visitka\obj\Debug\net10.0\Visitka.sourcelink.json
+C:\Users\ivady\Documents\algo-prog-course\Visitka\obj\Debug\net10.0\Visitka.dll
+C:\Users\ivady\Documents\algo-prog-course\Visitka\obj\Debug\net10.0\refint\Visitka.dll
+C:\Users\ivady\Documents\algo-prog-course\Visitka\obj\Debug\net10.0\Visitka.pdb
+C:\Users\ivady\Documents\algo-prog-course\Visitka\obj\Debug\net10.0\Visitka.genruntimeconfig.cache
+C:\Users\ivady\Documents\algo-prog-course\Visitka\obj\Debug\net10.0\ref\Visitka.dll
