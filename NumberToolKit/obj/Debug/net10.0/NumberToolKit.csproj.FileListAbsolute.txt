@@ -1,0 +1,15 @@
+C:\Users\ivady\Documents\algo-prog-course\NumberToolKit\bin\Debug\net10.0\NumberToolKit.exe
+C:\Users\ivady\Documents\algo-prog-course\NumberToolKit\bin\Debug\net10.0\NumberToolKit.deps.json
+C:\Users\ivady\Documents\algo-prog-course\NumberToolKit\bin\Debug\net10.0\NumberToolKit.runtimeconfig.json
+C:\Users\ivady\Documents\algo-prog-course\NumberToolKit\bin\Debug\net10.0\NumberToolKit.dll
+C:\Users\ivady\Documents\algo-prog-course\NumberToolKit\bin\Debug\net10.0\NumberToolKit.pdb
+C:\Users\ivady\Documents\algo-prog-course\NumberToolKit\obj\Debug\net10.0\NumberToolKit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivady\Documents\algo-prog-course\NumberToolKit\obj\Debug\net10.0\NumberToolKit.AssemblyInfoInputs.cache
+C:\Users\ivady\Documents\algo-prog-course\NumberToolKit\obj\Debug\net10.0\NumberToolKit.AssemblyInfo.cs
+C:\Users\ivady\Documents\algo-prog-course\NumberToolKit\obj\Debug\net10.0\NumberToolKit.csproj.CoreCompileInputs.cache
+C:\Users\ivady\Documents\algo-prog-course\NumberToolKit\obj\Debug\net10.0\NumberToolKit.sourcelink.json
+C:\Users\ivady\Documents\algo-prog-course\NumberToolKit\obj\Debug\net10.0\NumberToolKit.dll
+C:\Users\ivady\Documents\algo-prog-course\NumberToolKit\obj\Debug\net10.0\refint\NumberToolKit.dll
+C:\Users\ivady\Documents\algo-prog-course\NumberToolKit\obj\Debug\net10.0\NumberToolKit.pdb
+C:\Users\ivady\Documents\algo-prog-course\NumberToolKit\obj\Debug\net10.0\NumberToolKit.genruntimeconfig.cache
+C:\Users\ivady\Documents\algo-prog-course\NumberToolKit\obj\Debug\net10.0\ref\NumberToolKit.dll
