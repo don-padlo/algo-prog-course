@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NumberToolKit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9f58c1ef9da24726d0631cc3e98ed996127a5fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3608e09396716b952aaf84cf901801659c5da43")]
 [assembly: System.Reflection.AssemblyProductAttribute("NumberToolKit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NumberToolKit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

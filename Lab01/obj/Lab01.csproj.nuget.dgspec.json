@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ivady\\Documents\\algo-prog-course\\Lab01\\Lab01.csproj": {}
+    "C:\\Users\\ivady\\Documents\\algo-prog-course\\lab01\\Lab01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ivady\\Documents\\algo-prog-course\\Lab01\\Lab01.csproj": {
+    "C:\\Users\\ivady\\Documents\\algo-prog-course\\lab01\\Lab01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivady\\Documents\\algo-prog-course\\Lab01\\Lab01.csproj",
+        "projectUniqueName": "C:\\Users\\ivady\\Documents\\algo-prog-course\\lab01\\Lab01.csproj",
         "projectName": "Lab01",
-        "projectPath": "C:\\Users\\ivady\\Documents\\algo-prog-course\\Lab01\\Lab01.csproj",
+        "projectPath": "C:\\Users\\ivady\\Documents\\algo-prog-course\\lab01\\Lab01.csproj",
         "packagesPath": "C:\\Users\\ivady\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ivady\\Documents\\algo-prog-course\\Lab01\\obj\\",
+        "outputPath": "C:\\Users\\ivady\\Documents\\algo-prog-course\\lab01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ivady\\AppData\\Roaming\\NuGet\\NuGet.Config"
